@@ -1,6 +1,6 @@
 package Oleh.Shevchenko;
 
-public class fruits {
+public class Fruit {
     private Type type;
     private Colour colour;
     private int weightInGrams;

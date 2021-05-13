@@ -1,5 +1,5 @@
 package Oleh.Shevchenko;
 
 public enum Colour {
-    red, green, yellow
+    RED, GREEN, YELLOW
 }
